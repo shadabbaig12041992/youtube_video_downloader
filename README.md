@@ -18,8 +18,6 @@ Paste any youtube video link and download that video
 <h1>Run the program.</h1>
     
    Python video_downloader.py
-   
-   Enter the Url :
     
 upload multiple pdf and ask anything to ai inside from pdf
 
